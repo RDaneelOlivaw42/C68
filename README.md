@@ -1,10 +1,10 @@
 # C68
 
-API command line-
+<h2>API command line-</h2>
 
-npm install 
-npm install react-navigation
-npm install react-navigation-tabs
-npm install react-native-screens
-npm install react-native-reanimated
-npm install react-native-gesture-handler
+<code> npm install </code><br>
+<code> npm install react-navigation </code> <br>
+<code> npm install react-navigation-tabs </code> <br>
+<code> npm install react-native-screens </code> <br>
+<code> npm install react-native-reanimated </code> <br>
+<code> npm install react-native-gesture-handler </code> <br>
