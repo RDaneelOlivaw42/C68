@@ -1,6 +1,6 @@
 # C68
 
-<h2>API command line-</h2>
+<h2>Command line-</h2>
 
 <code> npm install </code><br>
 <code> npm install react-navigation </code> <br>
