@@ -9,4 +9,5 @@
 <code> npm install react-native-reanimated </code> <br>
 <code> npm install react-native-gesture-handler </code> <br>
 
+<br><br>
 Status: Created Rudimentary Tab Navigation, not added features yet
